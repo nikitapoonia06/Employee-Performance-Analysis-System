@@ -113,11 +113,11 @@ The analysis revealed relatively consistent performance levels across department
 
 ```text
 Employee_Performance_Analysis/
-¦
+Â¦
 +-- Employee_Performance_Analysis.ipynb
 +-- employee_data.csv
 +-- README.md
-+-- .gitignore
++-- images
 ```
 
 ## How to Run
